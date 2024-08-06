@@ -1,0 +1,30 @@
+[
+ {
+    "AUTHOR_UID": 1,
+    "CUST_ID": "101",
+    "FIRST_NAME": "Ravi",
+    "MIDDLE_NAME": "Sai",
+    "LAST_NAME": "Shankar"
+ },
+ {
+    "AUTHOR_UID": 2,
+    "CUST_ID": "102",
+    "FIRST_NAME": "Kishore",
+    "MIDDLE_NAME": null,
+    "LAST_NAME": "Kumar"
+ },
+ {
+    "AUTHOR_UID": 3,
+    "CUST_ID": "103",
+    "FIRST_NAME": "Gulshan",
+    "MIDDLE_NAME": "S",
+    "LAST_NAME": "Grover"
+ },
+ {
+    "AUTHOR_UID": 4,
+    "CUST_ID": "104",
+    "FIRST_NAME": "Lakshmi",
+    "MIDDLE_NAME": null,
+    "LAST_NAME": "Srinivas"
+ }
+]
